@@ -827,6 +827,20 @@ ul.comparison-list {
   background-color: #586e75 !important;
   color: #93a1a1 !important;
 }
+.menu,
+.menu-item {
+  background-color: #083c4a !important;
+  border-color: #586e75 !important;
+}
+.Box,
+.Box-row {
+  background-color: #083c4a !important;
+  border-color: #586e75 !important;
+}
+.access-form-wrapper {
+  background-color: #094352 !important;
+  color: #93a1a1 !important;
+}
 .select-menu-item.selected {
   background-color: #586e75 !important;
 }
