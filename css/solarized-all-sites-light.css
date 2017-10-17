@@ -1370,6 +1370,9 @@ body.comment {
 .morelink .nub {
   background-color: #b8bbbd !important;
 }
+.reveal {
+  color: #909396 !important;
+}
 * {
   border-color: #909396 !important;
 }

@@ -1,0 +1,29 @@
+* {
+  border-color: #909396 !important;
+}
+a {
+  color: #2f7bde !important;
+}
+a:visited {
+  color: #797fd4 !important;
+}
+body {
+  background-color: #d2d8d9 !important;
+  color: #909396 !important;
+}
+html {
+  background-color: #d2d8d9 !important;
+}
+input,
+textarea {
+  background-color: #b8bbbd !important;
+  color: #909396 !important;
+}
+blockquote,
+pre {
+  background-color: #b8bbbd !important;
+  color: #909396 !important;
+}
+.reveal {
+  color: #909396 !important;
+}
