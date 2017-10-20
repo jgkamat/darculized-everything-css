@@ -1,117 +1,117 @@
 * {
-  border-color: #839496 !important;
+  border-color: #909396 !important;
 }
 a {
-  color: #268bd2 !important;
+  color: #2f7bde !important;
 }
 a:visited {
-  color: #6c71c4 !important;
+  color: #797fd4 !important;
 }
 body {
-  background-color: #fdf6e3 !important;
-  color: #657b83 !important;
+  background-color: #d2d8d9 !important;
+  color: #909396 !important;
 }
 html {
-  background-color: #fdf6e3 !important;
+  background-color: #d2d8d9 !important;
 }
 input,
 textarea {
-  background-color: #eee8d5 !important;
-  color: #657b83 !important;
+  background-color: #b8bbbd !important;
+  color: #909396 !important;
 }
 blockquote,
 pre {
-  background-color: #eee8d5 !important;
-  color: #657b83 !important;
+  background-color: #b8bbbd !important;
+  color: #909396 !important;
 }
 #sr-header-area {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }
 #sr-header-area .srdrop .selected {
-  color: #657b83 !important;
+  color: #909396 !important;
 }
 #sr-header-area #sr-more-link {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }
 .link.promotedlink.promoted {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }
 .link .usertext .md {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }
 .linkinfo {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }
 .linklisting .odd {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }
 .thing .title {
-  color: #657b83 !important;
+  color: #909396 !important;
 }
 div.md {
-  color: #657b83 !important;
+  color: #909396 !important;
 }
 body.comment {
-  background-color: #fdf6e3 !important;
+  background-color: #d2d8d9 !important;
 }
 .commentarea > .usertext {
-  background-color: #fdf6e3 !important;
+  background-color: #d2d8d9 !important;
 }
 .commentarea .menuarea {
-  background-color: #fdf6e3 !important;
+  background-color: #d2d8d9 !important;
 }
 .comments-page .panestack-title {
-  background-color: #fdf6e3 !important;
+  background-color: #d2d8d9 !important;
 }
 .listing-chooser {
-  background-color: #fdf6e3 !important;
+  background-color: #d2d8d9 !important;
 }
 .listing-chooser .intro {
-  background-color: #93a1a1 !important;
-  color: #586e75 !important;
+  background-color: #a6aaab !important;
+  color: #5e6263 !important;
 }
 .listing-chooser .grippy {
-  background-color: #fdf6e3 !important;
+  background-color: #d2d8d9 !important;
 }
 .listing-chooser .grippy:after {
   border-right: none !important;
 }
 .listing-chooser li {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }
 .listing-chooser li.selected {
-  background-color: #93a1a1 !important;
+  background-color: #a6aaab !important;
   box-shadow: none;
 }
 .listing-chooser li a {
-  color: #657b83 !important;
+  color: #909396 !important;
 }
 .listing-chooser li a .description {
-  color: #586e75 !important;
+  color: #5e6263 !important;
 }
 .titlebox {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }
 .titlebox form.toggle {
-  background-color: #eee8d5 !important;
-  color: #657b83 !important;
+  background-color: #b8bbbd !important;
+  color: #909396 !important;
 }
 .side .usertext-body .md {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }
 .side {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }
 .sidebox .spacer {
-  background-color: #eee8d5 !important;
-  color: #586e75 !important;
+  background-color: #b8bbbd !important;
+  color: #5e6263 !important;
 }
 .tabmenu li a {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }
 #header-bottom-right {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }
 .morelink .nub {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }

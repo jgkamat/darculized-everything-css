@@ -1,59 +1,59 @@
 * {
-  border-color: #657b83 !important;
+  border-color: #909396 !important;
 }
 a {
-  color: #268bd2 !important;
+  color: #ce4139 !important;
 }
 a:visited {
-  color: #6c71c4 !important;
+  color: #b68800 !important;
 }
 body {
-  background-color: #002b36 !important;
-  color: #839496 !important;
+  background-color: #262626 !important;
+  color: #909396 !important;
 }
 html {
-  background-color: #002b36 !important;
+  background-color: #262626 !important;
 }
 input,
 textarea {
-  background-color: #073642 !important;
-  color: #839496 !important;
+  background-color: #2e2e2e !important;
+  color: #909396 !important;
 }
 blockquote,
 pre {
-  background-color: #073642 !important;
-  color: #839496 !important;
+  background-color: #2e2e2e !important;
+  color: #909396 !important;
 }
 div#page div#header {
-  background-color: #002b36 !important;
+  background-color: #262626 !important;
 }
 div#page div#header a {
-  color: #6c71c4 !important;
+  color: #797fd4 !important;
 }
 .post {
-  background-color: #002b36 !important;
+  background-color: #262626 !important;
 }
 .post * {
   overflow: auto !important;
 }
 .post h2 {
-  background-color: #073642 !important;
+  background-color: #2e2e2e !important;
 }
 .post h2 a {
-  color: #93a1a1 !important;
+  color: #a6aaab !important;
 }
 .post div.entry {
-  background-color: #002b36 !important;
-  color: #839496 !important;
+  background-color: #262626 !important;
+  color: #909396 !important;
 }
 .post div.entry blockquote {
-  background-color: #073642 !important;
+  background-color: #2e2e2e !important;
 }
 .post div.entry kbd {
-  background-color: #073642 !important;
-  border-color: #586e75 !important;
+  background-color: #2e2e2e !important;
+  border-color: #5e6263 !important;
   box-shadow: none !important;
-  color: #93a1a1 !important;
+  color: #a6aaab !important;
   text-shadow: 0px 1px 0px #000 !important;
 }
 .post pre.mode-line {

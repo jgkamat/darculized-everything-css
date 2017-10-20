@@ -1,87 +1,87 @@
 * {
-  border-color: #657b83 !important;
+  border-color: #909396 !important;
 }
 a {
-  color: #268bd2 !important;
+  color: #ce4139 !important;
 }
 a:visited {
-  color: #6c71c4 !important;
+  color: #b68800 !important;
 }
 body {
-  background-color: #002b36 !important;
-  color: #839496 !important;
+  background-color: #262626 !important;
+  color: #909396 !important;
 }
 html {
-  background-color: #002b36 !important;
+  background-color: #262626 !important;
 }
 input,
 textarea {
-  background-color: #073642 !important;
-  color: #839496 !important;
+  background-color: #2e2e2e !important;
+  color: #909396 !important;
 }
 blockquote,
 pre {
-  background-color: #073642 !important;
-  color: #839496 !important;
+  background-color: #2e2e2e !important;
+  color: #909396 !important;
 }
 .search--adv {
-  background-color: #073642 !important;
+  background-color: #2e2e2e !important;
 }
 .search__autocomplete > .acp-wrap {
-  background-color: #002b36 !important;
+  background-color: #262626 !important;
 }
 .search__autocomplete > .acp-wrap > .acp--highlight {
-  background-color: #073642 !important;
-  color: #eee8d5 !important;
+  background-color: #2e2e2e !important;
+  color: #b8bbbd !important;
 }
 .search__autocomplete > .acp-wrap strong {
-  color: #eee8d5 !important;
+  color: #b8bbbd !important;
 }
 .site-wrapper > #header_wrapper {
-  background-color: #002b36 !important;
+  background-color: #262626 !important;
 }
 .site-wrapper > #header_wrapper > #header {
-  background-color: #002b36 !important;
+  background-color: #262626 !important;
 }
 .search--header {
-  background-color: #073642 !important;
+  background-color: #2e2e2e !important;
 }
 .zci {
-  background-color: #073642 !important;
-  color: #839496 !important;
+  background-color: #2e2e2e !important;
+  color: #909396 !important;
 }
 .tile--info {
-  background-color: #002b36 !important;
+  background-color: #262626 !important;
 }
 .tile--info__expand {
-  background-color: #586e75 !important;
+  background-color: #5e6263 !important;
 }
 .tile--c {
-  background-color: #586e75 !important;
-  color: #eee8d5 !important;
+  background-color: #5e6263 !important;
+  color: #b8bbbd !important;
 }
 .module__text {
-  color: #839496 !important;
+  color: #909396 !important;
 }
 .about-info-box__heading {
-  color: #93a1a1 !important;
+  color: #a6aaab !important;
 }
 .result.highlight {
-  background-color: #073642 !important;
+  background-color: #2e2e2e !important;
 }
 .result__snippet {
-  color: #839496 !important;
+  color: #909396 !important;
 }
 .result__snippet b {
-  color: #93a1a1 !important;
+  color: #a6aaab !important;
 }
 .btn--top {
-  background-color: #073642 !important;
-  color: #839496 !important;
+  background-color: #2e2e2e !important;
+  color: #909396 !important;
 }
 .btn--top:hover {
-  background-color: #586e75 !important;
+  background-color: #5e6263 !important;
 }
 .result--sep--hr:before {
-  background-color: #586e75 !important;
+  background-color: #5e6263 !important;
 }

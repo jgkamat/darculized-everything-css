@@ -1,224 +1,224 @@
 * {
-  border-color: #839496 !important;
+  border-color: #909396 !important;
 }
 a {
-  color: #268bd2 !important;
+  color: #2f7bde !important;
 }
 a:visited {
-  color: #6c71c4 !important;
+  color: #797fd4 !important;
 }
 body {
-  background-color: #fdf6e3 !important;
-  color: #657b83 !important;
+  background-color: #d2d8d9 !important;
+  color: #909396 !important;
 }
 html {
-  background-color: #fdf6e3 !important;
+  background-color: #d2d8d9 !important;
 }
 input,
 textarea {
-  background-color: #eee8d5 !important;
-  color: #657b83 !important;
+  background-color: #b8bbbd !important;
+  color: #909396 !important;
 }
 blockquote,
 pre {
-  background-color: #eee8d5 !important;
-  color: #657b83 !important;
+  background-color: #b8bbbd !important;
+  color: #909396 !important;
 }
 hr {
-  background-color: #e9e1c8 !important;
-  color: #e9e1c8 !important;
+  background-color: #b0b4b6 !important;
+  color: #b0b4b6 !important;
 }
 .bounty-indicator,
 .bounty-indicator-tab {
-  background-color: #6c71c4 !important;
+  background-color: #797fd4 !important;
 }
 .bottom-notice {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }
 .comments-link {
-  color: #859900 !important;
+  color: #598249 !important;
 }
 .page-numbers {
-  background-color: #859900 !important;
-  color: #073642 !important;
+  background-color: #598249 !important;
+  color: #2e2e2e !important;
 }
 .page-numbers.current {
-  background-color: #cb4b16 !important;
-  color: #fdf6e3 !important;
+  background-color: #e05f27 !important;
+  color: #d2d8d9 !important;
 }
 .post-menu a {
-  color: #6c71c4 !important;
+  color: #797fd4 !important;
 }
 .question-status {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }
 pre code {
-  background-color: #eee8d5 !important;
-  color: #586e75 !important;
+  background-color: #b8bbbd !important;
+  color: #5e6263 !important;
 }
 pre code .atn {
-  color: #268bd2 !important;
+  color: #2f7bde !important;
 }
 pre code .atv {
-  color: #2aa198 !important;
+  color: #15968d !important;
 }
 pre code .com {
-  color: #93a1a1 !important;
+  color: #a6aaab !important;
 }
 pre code .kwd {
-  color: #859900 !important;
+  color: #598249 !important;
 }
 pre code .lit {
-  color: #d33682 !important;
+  color: #a8366b !important;
 }
 pre code .pln,
 pre code .pun {
-  color: #657b83 !important;
+  color: #909396 !important;
 }
 pre code .str {
-  color: #2aa198 !important;
+  color: #15968d !important;
 }
 pre code .tag {
-  color: #859900 !important;
+  color: #598249 !important;
 }
 pre code .typ {
-  color: #b58900 !important;
+  color: #b68800 !important;
 }
 #footer {
-  background-color: #ebe4cf !important;
-  color: #657b83 !important;
+  background-color: #b4b7b9 !important;
+  color: #909396 !important;
 }
 #footer #footer-sites th {
-  color: #586e75 !important;
+  color: #5e6263 !important;
 }
 .top-footer-links a {
-  color: #859900 !important;
+  color: #598249 !important;
 }
 .so-header {
-  background-color: #e9e1c8 !important;
-  color: #586e75 !important;
+  background-color: #b0b4b6 !important;
+  color: #5e6263 !important;
 }
 .so-header a {
-  color: #859900 !important;
+  color: #598249 !important;
 }
 .so-header .navigation .-list .-item :hover {
-  background-color: #859900 !important;
-  color: #002b36 !important;
+  background-color: #598249 !important;
+  color: #262626 !important;
 }
 .topbar-dialog {
-  background-color: #fdf6e3 !important;
-  box-shadow: #93a1a1 5px 5px 5px;
+  background-color: #d2d8d9 !important;
+  box-shadow: #a6aaab 5px 5px 5px;
 }
 .topbar-dialog .current-site-container {
-  background-color: #fdf6e3 !important;
+  background-color: #d2d8d9 !important;
 }
 .topbar-dialog .header {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }
 .topbar-dialog .header a {
-  color: #586e75 !important;
+  color: #5e6263 !important;
 }
 .topbar-dialog .site-link {
-  color: #586e75 !important;
+  color: #5e6263 !important;
 }
 #header {
-  background-color: #e9e1c8 !important;
+  background-color: #b0b4b6 !important;
 }
 #question-header .question-hyperlink {
-  color: #586e75 !important;
+  color: #5e6263 !important;
 }
 #hlogo a {
   filter: opacity(75%);
 }
 .new-post-activity {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }
 .tagged-interesting {
-  background-color: #e9e1c8 !important;
+  background-color: #b0b4b6 !important;
 }
 div.answered-accepted {
-  background-color: #859900 !important;
-  color: #073642 !important;
+  background-color: #598249 !important;
+  color: #2e2e2e !important;
 }
 div.answered-accepted .mini-counts {
-  background-color: #859900 !important;
-  color: #073642 !important;
+  background-color: #598249 !important;
+  color: #2e2e2e !important;
 }
 .answered .mini-counts span {
-  color: #859900 !important;
+  color: #598249 !important;
 }
 .unanswered .mini-counts span {
-  color: #657b83 !important;
+  color: #909396 !important;
 }
 #hot-network-questions a {
-  color: #2aa198 !important;
+  color: #15968d !important;
 }
 #hot-network-questions h4 a.js-gps-track {
-  color: #586e75 !important;
+  color: #5e6263 !important;
 }
 #sidebar .community-bulletin .bulletin-item-content a {
-  color: #586e75 !important;
+  color: #5e6263 !important;
 }
 #sidebar .module.community-bulletin {
-  background-color: #eee8d5 !important;
-  color: #586e75 !important;
+  background-color: #b8bbbd !important;
+  color: #5e6263 !important;
 }
 #sidebar .question-hyperlink {
-  color: #2aa198 !important;
+  color: #15968d !important;
 }
 .newuser {
-  background-color: #eee8d5 !important;
-  color: #586e75 !important;
+  background-color: #b8bbbd !important;
+  color: #5e6263 !important;
 }
 .label-key {
-  color: #657b83 !important;
+  color: #909396 !important;
 }
 .label-key b {
-  color: #586e75 !important;
+  color: #5e6263 !important;
 }
 #h-chat-link {
-  color: #586e75 !important;
+  color: #5e6263 !important;
 }
 .ad502-room {
-  background-color: #eee8d5 !important;
-  box-shadow: #93a1a1 0px 1px 3px;
-  color: #586e75 !important;
+  background-color: #b8bbbd !important;
+  box-shadow: #a6aaab 0px 1px 3px;
+  color: #5e6263 !important;
 }
 #tabs a {
   background-color: transparent !important;
-  background-image: linear-gradient(to bottom, #fdf6e3, #eee8d5);
-  color: #586e75 !important;
+  background-image: linear-gradient(to bottom, #d2d8d9, #b8bbbd);
+  color: #5e6263 !important;
 }
 #tabs a.youarehere {
-  background-image: linear-gradient(to bottom, #cb4b16, #fdf6e3);
-  color: #002b36 !important;
+  background-image: linear-gradient(to bottom, #e05f27, #d2d8d9);
+  color: #262626 !important;
 }
 .post-tag {
-  background-color: #93a1a1 !important;
-  color: #fdf6e3 !important;
+  background-color: #a6aaab !important;
+  color: #d2d8d9 !important;
 }
 .post-tag::before {
-  background-color: #fdf6e3 !important;
+  background-color: #d2d8d9 !important;
 }
 a.comment-user.owner {
-  background-color: #859900 !important;
-  color: #073642 !important;
+  background-color: #598249 !important;
+  color: #2e2e2e !important;
 }
 .post-signature {
-  background-color: #eee8d5 !important;
-  color: #586e75 !important;
+  background-color: #b8bbbd !important;
+  color: #5e6263 !important;
 }
 .post-signature a {
-  color: #2aa198 !important;
+  color: #15968d !important;
 }
 .post-signature.owner .user-info .user-details a {
-  color: #859900 !important;
+  color: #598249 !important;
 }
 .post-signature span.relativetime {
-  color: #586e75 !important;
+  color: #5e6263 !important;
 }
 .vote {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }
 .vote .star-off {
   filter: opacity(75%);
@@ -231,6 +231,6 @@ a.comment-user.owner {
   filter: opacity(50%);
 }
 .answer-votes {
-  background-color: #93a1a1 !important;
-  color: #fdf6e3 !important;
+  background-color: #a6aaab !important;
+  color: #d2d8d9 !important;
 }

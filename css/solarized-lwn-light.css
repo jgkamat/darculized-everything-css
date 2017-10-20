@@ -1,76 +1,76 @@
 * {
-  border-color: #839496 !important;
+  border-color: #909396 !important;
 }
 a {
-  color: #268bd2 !important;
+  color: #2f7bde !important;
 }
 a:visited {
-  color: #6c71c4 !important;
+  color: #797fd4 !important;
 }
 body {
-  background-color: #fdf6e3 !important;
-  color: #657b83 !important;
+  background-color: #d2d8d9 !important;
+  color: #909396 !important;
 }
 html {
-  background-color: #fdf6e3 !important;
+  background-color: #d2d8d9 !important;
 }
 input,
 textarea {
-  background-color: #eee8d5 !important;
-  color: #657b83 !important;
+  background-color: #b8bbbd !important;
+  color: #909396 !important;
 }
 blockquote,
 pre {
-  background-color: #eee8d5 !important;
-  color: #657b83 !important;
+  background-color: #b8bbbd !important;
+  color: #909396 !important;
 }
 tr.Even {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }
 .BigQuote {
-  background-color: #eee8d5 !important;
-  color: #cb4b16 !important;
+  background-color: #b8bbbd !important;
+  color: #e05f27 !important;
 }
 .Cat1HL {
-  background-color: #93a1a1 !important;
-  color: #586e75 !important;
+  background-color: #a6aaab !important;
+  color: #5e6263 !important;
 }
 .Cat2HL {
-  background-color: #e9e1c8 !important;
+  background-color: #b0b4b6 !important;
 }
 .Cat3HL {
-  background-color: #ebe4cf !important;
+  background-color: #b4b7b9 !important;
 }
 .FeatureByline {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
   border: none !important;
 }
 .Headline {
-  background-color: #e9e1c8 !important;
+  background-color: #b0b4b6 !important;
 }
 .QuotedText {
-  color: #6c71c4 !important;
+  color: #797fd4 !important;
 }
 DIV.GAByline {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
   border: none !important;
 }
 table.OddEven tr:nth-child(even) {
-  background-color: #fcf3da !important;
+  background-color: #cdd4d5 !important;
 }
 table.OddEven tr:nth-child(odd) {
-  background-color: #fdf6e3 !important;
+  background-color: #d2d8d9 !important;
 }
 DIV.CommentBox {
-  border-color: #eee8d5 !important;
+  border-color: #b8bbbd !important;
 }
 DIV.CommentBox P.CommentTitle {
-  background-color: #e9e1c8 !important;
+  background-color: #b0b4b6 !important;
 }
 #menu,
 .topnav-container {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }
 .navmenu ul {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }

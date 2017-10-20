@@ -1,78 +1,78 @@
 * {
-  border-color: #839496 !important;
+  border-color: #909396 !important;
 }
 a {
-  color: #268bd2 !important;
+  color: #2f7bde !important;
 }
 a:visited {
-  color: #6c71c4 !important;
+  color: #797fd4 !important;
 }
 body {
-  background-color: #fdf6e3 !important;
-  color: #657b83 !important;
+  background-color: #d2d8d9 !important;
+  color: #909396 !important;
 }
 html {
-  background-color: #fdf6e3 !important;
+  background-color: #d2d8d9 !important;
 }
 input,
 textarea {
-  background-color: #eee8d5 !important;
-  color: #657b83 !important;
+  background-color: #b8bbbd !important;
+  color: #909396 !important;
 }
 blockquote,
 pre {
-  background-color: #eee8d5 !important;
-  color: #657b83 !important;
+  background-color: #b8bbbd !important;
+  color: #909396 !important;
 }
 body * {
-  border-color: #e9e1c8 !important;
+  border-color: #b0b4b6 !important;
 }
 #content {
-  background-color: #fdf6e3 !important;
-  color: #657b83 !important;
+  background-color: #d2d8d9 !important;
+  color: #909396 !important;
 }
 #mw-head,
 #mw-panel {
-  background-color: #eee8d5 !important;
-  color: #586e75 !important;
+  background-color: #b8bbbd !important;
+  color: #5e6263 !important;
 }
 #mw-head div.portal,
 #mw-panel div.portal {
   background-image: none !important;
 }
 #mw-head {
-  background-color: #eee8d5 !important;
-  background-image: linear-gradient(to bottom, #fdf6e3, #eee8d5) !important;
+  background-color: #b8bbbd !important;
+  background-image: linear-gradient(to bottom, #d2d8d9, #b8bbbd) !important;
 }
 #mw-panel,
 #p-logo {
-  background-image: linear-gradient(to right, #fdf6e3, #eee8d5) !important;
+  background-image: linear-gradient(to right, #d2d8d9, #b8bbbd) !important;
 }
 div.vectorTabs {
-  background-image: linear-gradient(to bottom, #fdf6e3, #eee8d5) !important;
+  background-image: linear-gradient(to bottom, #d2d8d9, #b8bbbd) !important;
 }
 div.vectorTabs ul {
-  background-image: linear-gradient(to bottom, #fdf6e3, #eee8d5) !important;
+  background-image: linear-gradient(to bottom, #d2d8d9, #b8bbbd) !important;
 }
 div.vectorTabs ul li {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
   background-image: none !important;
   padding: 0px 1px 0px 1px !important;
 }
 div.vectorTabs span {
-  background-color: #eee8d5 !important;
-  background-image: linear-gradient(to bottom, #fdf6e3, #eee8d5) !important;
+  background-color: #b8bbbd !important;
+  background-image: linear-gradient(to bottom, #d2d8d9, #b8bbbd) !important;
 }
 div.vectorTabs li.selected,
 div.vectorTabs li.selected span {
   background-color: transparent !important;
-  background-image: linear-gradient(to bottom, #eee8d5, #fdf6e3) !important;
+  background-image: linear-gradient(to bottom, #b8bbbd, #d2d8d9) !important;
 }
 .mw-wiki-logo {
   filter: opacity(50%);
 }
 div#simpleSearch #searchInput {
-  background-color: #fdf6e3 !important;
+  background-color: #d2d8d9 !important;
   padding: 0.05em 0px 0.2em 0.2em !important;
 }
 .ambox,
@@ -80,32 +80,32 @@ div#simpleSearch #searchInput {
 #toc,
 #toctitle,
 .toclevel-1 {
-  background-color: #eee8d5 !important;
-  border-color: #e9e1c8 !important;
-  color: #586e75 !important;
+  background-color: #b8bbbd !important;
+  border-color: #b0b4b6 !important;
+  color: #5e6263 !important;
 }
 .catlinks {
-  background-color: #eee8d5 !important;
-  border-color: #e9e1c8 !important;
-  color: #586e75 !important;
+  background-color: #b8bbbd !important;
+  border-color: #b0b4b6 !important;
+  color: #5e6263 !important;
 }
 .navbox {
-  background-color: #eee8d5 !important;
-  border-color: #e9e1c8 !important;
-  color: #586e75 !important;
+  background-color: #b8bbbd !important;
+  border-color: #b0b4b6 !important;
+  color: #5e6263 !important;
 }
 .navbox .th,
 .navbox .navbox-title {
-  background-color: #e9e1c8 !important;
+  background-color: #b0b4b6 !important;
 }
 .navbox-abovebelow,
 th.navbox-group,
 .navbox-subgroup,
 .navbox-title {
-  background-color: #ebe4cf !important;
+  background-color: #b4b7b9 !important;
 }
 .navbox-even {
-  background-color: #fdf6e3 !important;
+  background-color: #d2d8d9 !important;
 }
 h1,
 h2,
@@ -113,32 +113,32 @@ h3,
 h4,
 h5,
 h6 {
-  border-color: #e9e1c8 !important;
-  color: #586e75 !important;
+  border-color: #b0b4b6 !important;
+  color: #5e6263 !important;
 }
 code {
-  background-color: #e9e1c8 !important;
-  border-color: #e9e1c8 !important;
-  color: #586e75 !important;
+  background-color: #b0b4b6 !important;
+  border-color: #b0b4b6 !important;
+  color: #5e6263 !important;
 }
 div.thumbinner {
-  background-color: #eee8d5 !important;
-  border-color: #e9e1c8 !important;
+  background-color: #b8bbbd !important;
+  border-color: #b0b4b6 !important;
 }
 img {
   filter: opacity(75%);
 }
 img.thumbimage {
-  border-color: #e9e1c8 !important;
+  border-color: #b0b4b6 !important;
 }
 .mw-body .external {
   opacity: 0.5 !important;
 }
 table.wikitable {
-  background-color: #fdf6e3 !important;
-  border-color: #e9e1c8 !important;
-  color: #657b83 !important;
+  background-color: #d2d8d9 !important;
+  border-color: #b0b4b6 !important;
+  color: #909396 !important;
 }
 table.wikitable > * > tr > th {
-  background-color: #eee8d5 !important;
+  background-color: #b8bbbd !important;
 }
