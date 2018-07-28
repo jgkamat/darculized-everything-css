@@ -16,6 +16,9 @@ background-color(c = color-background)
         c = color-background-highlight-extra
     background-color c i
 
+background(c = color-background)
+    background c i
+
 bold()
     font-weight bold i
 
@@ -25,6 +28,17 @@ border-color(args...)
     else
         c = color-border
     border-color c i
+
+border-color-all(args...)
+    if args
+        c = args
+    else
+        c = color-border
+    border-color c
+    border-top-color c i
+    border-bottom-color c i
+    border-left-color c i
+    border-right-color c i
 
 color(c = color-text)
     color c i

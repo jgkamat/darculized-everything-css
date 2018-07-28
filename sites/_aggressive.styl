@@ -1,0 +1,112 @@
+// This stylesheet tries to aggressively theme the entire
+// web, at the cost of features breaking or things looking
+// ugly on some sites. This is a different approach than the
+// all-sites stylesheet, which overlays hand-made styles
+// that make each site look high quality.
+
+// * aggressive.styl
+
+// ** Base Changes
+
+html
+    background-color()
+
+*
+    color()
+    background-color: transparent
+    // Text shadow assumes website theme
+    text-shadow: none i
+    border-color-all(color-background-highlight-extra)
+
+
+body
+    background: transparent
+
+*:before, *:after
+    background-color: transparent
+    border-color-all(color-background-highlight-extra)
+
+a *
+    a()
+a:visited *
+    a visited
+
+// TODO override selection if possible
+
+// ** Menu and Background Colors
+
+div[style="display: block;"], div[role="navigation"]
+    background color-background-highlight-extra-less-less
+
+table
+    // background rgba(40,30,30,.6) !important;
+    background color-background-highlight
+    border-radius 6px i
+
+table > tbody > tr:nth-child(even), table > tbody > tr > td:nth-child(even)
+    background-color: rgba(0,0,0,.2) !important;
+
+iframe, embed, header, nav, footer, label [onclick], nav ul, div[style*="position:"][style*="left:"][style*="visible"], div[style*="z-index:"][style*="left:"][style*="visible"], div[style*="-moz-user-select"], div[role="menu"], div[role="dialog"], div[id="task details"], span[class*="script"] div, [id*="menu"], [class*="dropdown"], [class*="popup"], [class="title"], [class="search__autocomplete"], [class="top-matter"], ul[style*="display:"], ul[style*="visibility:"] ul, [id*="nav"] ul, [class*="nav"] ul, ul[class*="menu"], a[onclick][style*="display"], a[id*="ghosteryfirefox"], #ghostery-purple-bubble, #translator-popup, .menu, .tooltip, .hovercard, .vbmenu_popup, * .navigation, * .navigation a, ul, menu, dir, #header, .openData .odGradient, .stable-head td div, .rplm-alert .content-wrap, #navbar *, #sondage, div.dlg-window, .modal-container .modal-content .modal-box .once-modal, .tabs_main ul li a, .tabs_main ul li span, .module-actionbar .module-actionbar-action, .bg_01, .bg-default, .box-highlight, .bg-brighter, .mvxl, #downloads, .questions-ovl, .ovl-frame, .messenger__contacts .scroll, .messenger__contacts .scroll_, .messenger__content .scroll, .messenger__content .scroll_, .st_error .messenger__content-inner .scroll__, a.info:hover span, a.info:focus span, #system, #product, .clicked, .notClicked, .notClicked:hover, #ident_div_ident, .idAbonne, #pageFacture .tab-content, span.conteneurTips, .ligneOption, .ligneMevo td, [id*="footer"], .modal-dialog, .cadre-contenu, #cart_summary, #loyalty-target, #cont-subnav, .wrapper, .filtre-thematiques-selected, .filtre-thematiques, ul.thematiques, li.thematique.sans-chaines, a.voir-thematique, [class*="progTrigger"], #connexion, .sub-menu .sub-nav-article-wrapper, #navMain ul li, .SMainRack, .STopRack, .STopFirst, .SBotRack, .result.highlight
+    background: color-background-highlight-extra-less-less
+    border-radius 5px i
+
+
+header, #header, footer, #footer
+    background: color-background-highlight-extra-less
+
+body > #dialog, body > .xenOverlay
+    background: color-background-highlight-extra-less-less
+    border 10px i
+    border-radius 0 i
+
+[id*="overlay"], [id*="lightbox"], blockquote
+    background-color color-background-highlight-extra-less
+    border-radius 5px
+
+pre, dl, .Message code
+    background-color
+
+// ** Buttons, Searchboxes
+
+
+
+input, select, button, a.button, a.submit, a.BigButton, a.TabLink, .install[onclick],
+a[href="javascript:;"], a[class*="button"]:not(:empty), a[id*="button"]:not(:empty), a[id*="Button"]:not(:empty), div[class*="button"][onclick]
+.fbNubFlyoutBodyContent
+    background color-background-highlight-extra-less-less
+    color emphasized
+
+    &:hover
+        background-color highlight-extra
+    &:active
+        background-color highlight-extra
+        color emphasized
+
+input *, select *, button *, a.button *, a.submit *
+   color()
+
+// Fix some hidden checkboxes
+input[type="checkbox"]
+   opacity 100 i
+
+
+input[disabled], select[disabled], button[disabled], input[disabled]:hover,
+select[disabled]:hover, button[disabled]:hover, input[disabled]:focus, select[disabled]:focus,
+button[disabled]:focus
+    opacity 0.5 i
+    border-color color-background-highlight-extra-less-less
+
+textarea
+    background darken(color-background, 2%)
+
+body,
+// This section could be useful to block some bright images
+// *:not(:empty):not(html):not(span):not(a):not(b):not(option):not(select):not(img):not([style="display: block;"]):not([onclick*="open"]):not([onclick*="s_objectID"]):not([class*="stars"]):not([id*="stars"]):not([id="rating"]):not([class="rating"]):not([class*="SPRITE"]):not([id*="SPRITE"]):not([class*="item"]):not([id*="item"]):not([class*="thumb"]):not([class*="icon"]):not([class*="photo"]):not(.view):not(.text):not([id*="lbImage"]):not([class*="cc-in"]):not([class*="gr-body"]):not([id*="watch"]):not(#globalsearch),
+.r3_hm, .gmbutton2 b, .gtab-i, .ph, .bstab-iLft, .csb, #pagination div, [style*="sprite2.png"], #mw-head-base, #mw-page-base
+    background-image: none !important;
+
+// Site-specific fixes for !important
+
+.link-gray-dark
+.text-gray-dark
+    color color-text
